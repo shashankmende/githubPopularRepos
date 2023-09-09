@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+}
+
+.language-button {
+  border: none;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  outline: none;
+}
+
+.tabClass {
+  border: 1px solid #0284c7;
+  border-radius: 20px;
+  color: #0284c7;
+}
